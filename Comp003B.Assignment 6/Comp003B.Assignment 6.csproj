@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Comp003B.Assignment_6</RootNamespace>
+    <UserSecretsId>5c6fc29c-eef1-44ca-a656-031e8ab74b97</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
