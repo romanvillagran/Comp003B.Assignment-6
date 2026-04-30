@@ -2,5 +2,9 @@
 {
     public class Actors
     {
+        public int ActorId { get; set; }
+        public string Name { get; set; }
+
+        public required ICollection<MovieActor> MovieActors { get; set; }
     }
 }
