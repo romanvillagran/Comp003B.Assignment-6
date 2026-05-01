@@ -9,7 +9,7 @@ namespace Comp003B.Assignment_6.Data
         }
 
         public DbSet<Movie> Movies { get; set; }
-        public DbSet<Actors> Actors { get; set; }
-        public DbSet<MovieActors> MovieActors { get; set; }
+        public DbSet<Actor> Actors { get; set; }
+        public DbSet<MovieActor> MovieActors { get; set; }
     }
 }
